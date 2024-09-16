@@ -1,0 +1,2 @@
+# Smart-Reviewer-Assignment-Automating-Test-Reviews-with-Azure-DevOps-API-Integration
+A system that processes webhook events for managing Git-based pull requests and task assignments using Azure DevOps REST APIs. It evaluates pull request payloads against predefined criteria to automatically approve, reject, or assign reviewers. The system also creates and tracks work items through Azure DevOps integration.
