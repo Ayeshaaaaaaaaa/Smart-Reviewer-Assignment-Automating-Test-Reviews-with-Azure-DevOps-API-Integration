@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reviewers>
+	<PAT>etoyf6zija76t6ggchpvixh2jnbzpynyjzyuuwn2nc2t43xqy2dq</PAT>
+	<Term name="srs">
+		<Reviewer>ayesha.rafiq229@gmail.com</Reviewer>
+		<Reviewer>rana_adil@hotmail.com</Reviewer>
+	</Term>
+	<Term name="urd">
+		<Reviewer>user1@example.com</Reviewer>
+		<Reviewer>user2@example.com</Reviewer>
+	</Term>
+</Reviewers>
